@@ -1,4 +1,3 @@
-import Score from "./Score";
 import Player from "./Player";
 import "./App.css";
 
@@ -8,7 +7,6 @@ function App() {
       <Player />
       <Player />
       <Player />
-      <Score />
     </div>
   );
 }
