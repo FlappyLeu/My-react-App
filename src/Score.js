@@ -1,7 +1,8 @@
+const num = 10;
 export default function Score() {
   return (
     <div className="Score">
-      <num>20</num>
+      <num>{num}</num>
     </div>
   );
 }
