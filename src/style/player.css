@@ -1,0 +1,8 @@
+.player {
+  display: flex;
+  justify-content: space-around;
+  width: 700px;
+  border: 1px solid grey;
+  color: white;
+  text-transform: uppercase;
+}
